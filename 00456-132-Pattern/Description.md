@@ -3,9 +3,9 @@
 Difficulty: Medium
 Link: https://leetcode.com/problems/132-pattern/
 
-Given an array of n integers nums, a 132 pattern is a subsequence of three integers nums[i], nums[j] and nums[k] such that i < j < k and nums[i] < nums[k] < nums[j].
+Given an array of `n` integers `nums`, a **132 pattern** is a subsequence of three integers `nums[i]`, `nums[j]` and `nums[k]` such that `i < j < k` and `nums[i] < nums[k] < nums[j]`.
 
-Return true if there is a 132 pattern in nums, otherwise, return false.
+Return true if there is a **_132 pattern_** in nums, *otherwise*, return `false`.
 
 #### Example 1
 
